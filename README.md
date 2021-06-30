@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @levirosales98
-- 👀 I’m interested in learn to develop apps with .NET and PHP
-- 🌱 I’m currently learning .NET, SQL Server, Laravel and MySQL
+- 👋 Hi, I’m @levirosales98.
+- 🖥️ I'm software engineering student
+- 👀 I’m interested in learn to develop apps with .NET and PHP.
+- 🌱 I’m currently learning .NET, SQL Server, Laravel and MySQL.
