@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @levirosales98
 - 🖥️ I'm software engineering student.
-- 👀 I'm interested in learn to develop apps with .NET Framework and PHP.
+- 👀 I'm interested in learn to develop apps with ASP.NET Framework and PHP.
 - 🌱 I'm currently learning ASP.NET, PHP, Laravel, Oracle, MySQL and SQL Server.
