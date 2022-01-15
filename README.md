@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @levirosales98
+- 👋 Hi, I'm Leví Rosales
 - 🖥️ I'm software engineering student.
-- 👀 I'm interested in learn to develop apps with ASP.NET Framework and PHP.
-- 🌱 I'm currently learning ASP.NET, PHP, Laravel, Oracle, MySQL and SQL Server.
+- 👀 I'm interested in learn to develop apps with PHP and Laravel Framework.
+- 🌱 I'm currently learning JavaScript, Laravel, Regular expressions and Oracle.
