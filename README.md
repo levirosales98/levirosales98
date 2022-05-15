@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Leví Rosales
 - 🖥️ I'm software engineering student.
-- 👀 I'm interested in learn to develop apps with PHP and Laravel Framework.
-- 🌱 I'm currently learning JavaScript, Laravel, Regular expressions and Oracle.
+- 💼 I work as a Programmer Analyst with Microsoft technologies
+- 🌱 I'm currently learning JavaScript, Data Structures and Algorithms in Java, Bootstrap and Microcontrollers PIC with C
