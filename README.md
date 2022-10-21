@@ -1,4 +1,3 @@
-- 👋 Hi, I'm Leví Rosales
-- 🖥️ I'm software engineering student.
-- 💼 I work as a Programmer Analyst with Microsoft technologies
-- 🌱 I'm currently learning JavaScript, Data Structures and Algorithms in Java, Bootstrap and Microcontrollers PIC with C and studying for my Microsoft DevOps Certificate
+👋 Hi, I'm Leví Rosales.
+🖥️ I'm software engineer.
+🌱 I'm currently learning JavaScript and .NET Core.
