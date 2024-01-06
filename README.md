@@ -1,3 +1,7 @@
 👋 Hi, I'm Leví Rosales.
 
-🖥️ I'm software engineer.
+🖥️ Software engineer.
+
+✝ Believer
+
+🥋 Hawaiian Kenpo Karate
