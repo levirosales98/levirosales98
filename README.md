@@ -1,3 +1,11 @@
-👋 Hi, I'm Leví
+Hi! I´m Leví 👋🏼
 
-🖥️ Software engineer
+Believer ✝️
+
+Musician 🎸
+
+Software Engineer 👾
+
+Gym 💪🏾 Kick Boxing 🥋
+
+Videogames 🕹️
