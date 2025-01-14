@@ -1,4 +1,4 @@
-Hi! I´m Leví 👋🏼
+Hi! I'm Leví 👋🏼
 
 Believer ✝️
 
